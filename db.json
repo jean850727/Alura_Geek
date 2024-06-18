@@ -1,0 +1,22 @@
+{
+  "imagenes": [
+    {
+      "id": "2",
+      "titulo": "Patines Ruth Negros",
+      "precio": "$3,499",
+      "ruta": "./imagenes/patines Ruth negros con rosa y pompon rosa.jpg"
+    },
+    {
+      "id": "3",
+      "titulo": "Patines Ruth Negros",
+      "precio": "$3,499",
+      "ruta": "./imagenes/patines Ruth negros con rosa y pompon rosa.jpg"
+    },
+    {
+      "id": "4",
+      "titulo": "Patines Ruth Negros",
+      "precio": "$3,499",
+      "ruta": "./imagenes/patines Ruth negros con rosa y pompon rosa.jpg"
+    }
+  ]
+}

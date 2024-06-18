@@ -1,0 +1,16 @@
+{
+  "name": "challenge-alurageek",
+  "version": "1.0.0",
+  "description": "plataforma de intercambio de imagenes",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json": "^11.0.0",
+    "json-server": "^1.0.0-beta.1",
+    "server": "^1.0.39"
+  }
+}
